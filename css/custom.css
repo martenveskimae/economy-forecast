@@ -1,0 +1,11 @@
+.shiny-notification-content {
+  	height: 80px;
+  	background-position: left;
+    background-image: url(http://orig00.deviantart.net/ed72/f/2015/026/d/b/36_by_genbaku-d8fh6oo.gif);
+    background-repeat: no-repeat;
+    background-size: 80px 60px;
+    z-index: 999;
+}
+.shiny-notification-content-text {
+	display: none;
+}
